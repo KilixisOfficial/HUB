@@ -1,0 +1,5 @@
+.zcode-site/
+.zcode-site.json
+.v2c/
+.video_agent/
+*.log
